@@ -15,5 +15,9 @@ My name is Amirhosein Javadi, and I am a Ph.D. student in ECE at UCSD, advised b
   *Authors:* Li Zhang, Youwei Liang, Ruiyi Zhang, **Amirhosein Javadi**, Pengtao Xie    
   *ICML 2024*
 
+## **Experinece**
+- **Research Intern at Soter AI**
+  - Built camera-controlled novel-view video from single/multi-view inputs
+
 ### **News**
 - The Electrical and Computer Engineering Department Fellowship, University of California San Diego, 2023.
