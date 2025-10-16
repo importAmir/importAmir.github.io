@@ -6,17 +6,17 @@ main:
   # - title: "Publication"
   #   url: /publications/
     
-  - title: "Research"	
-    url: /research/ 
+  #- title: "Research"	
+  #  url: /research/ 
     
   # - title: "Courses"
   #   url: /courses/ 
     
-  - title: "Course Projects" 	
-    url: /course_projects/
+  #- title: "Course Projects" 	
+  #  url: /course_projects/
     
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
