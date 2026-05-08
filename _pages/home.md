@@ -16,7 +16,7 @@ My name is Amirhosein Javadi, and I am a Ph.D. student in ECE at UCSD, advised b
   *Authors:* **Amirhosein Javadi**, Chi-Shiang Gau, Konstantinos D. Polyzos, Tara Javidi  
   *Published at ICLR 2026 Workshop on Multimodal Intelligence*
 
-- **Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion**  
+- **[Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion](https://arxiv.org/pdf/2605.02849v1)**  
   *Authors:* **Amirhosein Javadi**, Shirin Saeedi Bidokhti, Tara Javidi
 
 - **[Active World-Model with 4D-informed Retrieval for Exploration and Awareness](https://openreview.net/pdf?id=6cJXSaHHgV)**  
