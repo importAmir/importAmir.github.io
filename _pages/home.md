@@ -14,7 +14,8 @@ My name is Amirhosein Javadi, and I am a Ph.D. student in ECE at UCSD, advised b
 
 - **[A Single Image and Multimodality Is All You Need for Novel View Synthesis](https://openreview.net/pdf?id=cLTqNJPCVY)**  
   *Authors:* **Amirhosein Javadi**, Chi-Shiang Gau, Konstantinos D. Polyzos, Tara Javidi  
-  *Published at ICLR 2026 Workshop on Multimodal Intelligence*
+  *Published at ICLR 2026 Workshop on Multimodal Intelligence*  
+  [[Project Page](https://importamir.github.io/MultiModalNVS/)] [[Code](https://github.com/importAmir/MultiModalNVS)]
 
 - **[Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion](https://arxiv.org/pdf/2605.02849v1)**  
   *Authors:* **Amirhosein Javadi**, Shirin Saeedi Bidokhti, Tara Javidi
@@ -26,6 +27,8 @@ My name is Amirhosein Javadi, and I am a Ph.D. student in ECE at UCSD, advised b
 - **[CI-CBM: Class-Incremental Concept Bottleneck Model for Interpretable Continual Learning](https://openreview.net/pdf?id=Wf6OpLgj2i)**  
   *Authors:* **Amirhosein Javadi**, Tuomas Oikarinen, Tara Javidi, Tsui-Wei Weng  
   *Accepted at TMLR*
+  [[Project Page](https://lilywenglab.github.io/Class-Incremental-CBM/)] [[Code](https://github.com/importAmir/CI-CBM)]
+
 
 - **[BLO-SAM: Bi-Level Optimization Based Finetuning of the Segment Anything Model for Overfitting-Preventing Semantic Segmentation](https://openreview.net/pdf?id=qRtM5EqE9l)**  
   *Authors:* Li Zhang, Youwei Liang, Ruiyi Zhang, **Amirhosein Javadi**, Pengtao Xie  
